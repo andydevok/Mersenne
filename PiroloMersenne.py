@@ -1,4 +1,4 @@
-# ====================================================================================
+# ==========================================================================
 # Pirolo Mersenne Hunter v1.3
 # 1. perform a "blind hunt" for large Mersenne prime exponent candidates.
 # 2. self-contained, professional-grade script for public distribution.
@@ -7,7 +7,7 @@
 #
 # AUTHOR: Andrés Sebastian Pirolo
 # DATE: October 3, 2025
-# ====================================================================================
+# =============================================================================
 
 # --- STAGE 0: LIBRARY INSTALLATION ---
 !pip install mpmath sympy pandas

@@ -201,7 +201,7 @@ try:
     else:
         print(f"❌ FALLO. El modelo híbrido no logró localizar el objetivo. El error fue de {error_rel:.4f}%.")
         
-    print("\n="*80)
+    print("="*80)
 
 except Exception as e:
     print(f"\n❌ Ocurrió un error inesperado durante la ejecución: {e}")
